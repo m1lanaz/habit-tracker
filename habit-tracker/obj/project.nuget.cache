@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "zwqdJAk2eppnUX6vykqipedJHnmIG8TT3iPIhRISkh55CoP7pVfSJCJrIrM37icfGnSAmskwyust/8bwOfQVhA==",
+  "dgSpecHash": "AXVOVvW3zKmK5s9/wBaSQr3VelLPrIYI9PB2FzWwUl3IImtMjIZUiRv1BwC22TM7xAU+G/XNhFKm0j77cz+8hg==",
   "success": true,
   "projectFilePath": "c:\\Users\\Milana\\Documents\\Github\\habit-tracker\\habit-tracker\\habit-tracker.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Milana\\.nuget\\packages\\microsoft.data.sqlite\\7.0.11\\microsoft.data.sqlite.7.0.11.nupkg.sha512",
+    "C:\\Users\\Milana\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.11\\microsoft.data.sqlite.core.7.0.11.nupkg.sha512",
+    "C:\\Users\\Milana\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.4\\sqlitepclraw.bundle_e_sqlite3.2.1.4.nupkg.sha512",
+    "C:\\Users\\Milana\\.nuget\\packages\\sqlitepclraw.core\\2.1.4\\sqlitepclraw.core.2.1.4.nupkg.sha512",
+    "C:\\Users\\Milana\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.4\\sqlitepclraw.lib.e_sqlite3.2.1.4.nupkg.sha512",
+    "C:\\Users\\Milana\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.4\\sqlitepclraw.provider.e_sqlite3.2.1.4.nupkg.sha512",
+    "C:\\Users\\Milana\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
   "logs": []
 }
