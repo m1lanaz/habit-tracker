@@ -1,0 +1,14 @@
+c:\Users\Milana\Documents\Github\habit-tracker\habit-tracker\bin\Debug\net7.0\habit-tracker.exe
+c:\Users\Milana\Documents\Github\habit-tracker\habit-tracker\bin\Debug\net7.0\habit-tracker.deps.json
+c:\Users\Milana\Documents\Github\habit-tracker\habit-tracker\bin\Debug\net7.0\habit-tracker.runtimeconfig.json
+c:\Users\Milana\Documents\Github\habit-tracker\habit-tracker\bin\Debug\net7.0\habit-tracker.dll
+c:\Users\Milana\Documents\Github\habit-tracker\habit-tracker\bin\Debug\net7.0\habit-tracker.pdb
+c:\Users\Milana\Documents\Github\habit-tracker\habit-tracker\obj\Debug\net7.0\habit-tracker.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Milana\Documents\Github\habit-tracker\habit-tracker\obj\Debug\net7.0\habit-tracker.AssemblyInfoInputs.cache
+c:\Users\Milana\Documents\Github\habit-tracker\habit-tracker\obj\Debug\net7.0\habit-tracker.AssemblyInfo.cs
+c:\Users\Milana\Documents\Github\habit-tracker\habit-tracker\obj\Debug\net7.0\habit-tracker.csproj.CoreCompileInputs.cache
+c:\Users\Milana\Documents\Github\habit-tracker\habit-tracker\obj\Debug\net7.0\habit-tracker.dll
+c:\Users\Milana\Documents\Github\habit-tracker\habit-tracker\obj\Debug\net7.0\refint\habit-tracker.dll
+c:\Users\Milana\Documents\Github\habit-tracker\habit-tracker\obj\Debug\net7.0\habit-tracker.pdb
+c:\Users\Milana\Documents\Github\habit-tracker\habit-tracker\obj\Debug\net7.0\habit-tracker.genruntimeconfig.cache
+c:\Users\Milana\Documents\Github\habit-tracker\habit-tracker\obj\Debug\net7.0\ref\habit-tracker.dll
